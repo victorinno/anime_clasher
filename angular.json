@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "anime-clasher-html": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "anime-clasher-html"
+    }
+  },
+  "defaultProject": "anime-clasher-html",
+  "cli": {
+    "analytics": "93866316-eed9-44c9-9fa9-fedfaf2df9a2"
+  }
 }
